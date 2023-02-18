@@ -1,0 +1,26 @@
+[
+    {
+        "msgId": "248455",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-05-31 12:35:10",
+        "type": "419430449",
+        "content": "微信转账:收到转账￥1600.00元。如需收钱，请点此升级至最新版本"
+    },
+    {
+        "msgId": "248456",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-05-31 12:37:34",
+        "type": "419430449",
+        "content": "微信转账:收到转账1600.00元。如需收钱，请点此升级至最新版本"
+    },
+    {
+        "msgId": "248493",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-05-31 13:57:02",
+        "type": "3",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<img aeskey=\"cab03f796635c1598c7c1788938572fd\" encryver=\"1\" cdnthumbaeskey=\"cab03f796635c1598c7c1788938572fd\" cdnthumburl=\"3057020100044b304902010002042fec3dc802032f4f5602040e7ac2dc02046295a795042465643763656339392d643466382d346339302d623536622d373539623436376233363336020401150a020201000405004c4d9a00\" cdnthumblength=\"5356\" cdnthumbheight=\"120\" cdnthumbwidth=\"90\" cdnmidheight=\"0\" cdnmidwidth=\"0\" cdnhdheight=\"0\" cdnhdwidth=\"0\" cdnmidimgurl=\"3057020100044b304902010002042fec3dc802032f4f5602040e7ac2dc02046295a795042465643763656339392d643466382d346339302d623536622d373539623436376233363336020401150a020201000405004c4d9a00\" length=\"33180\" md5=\"1c801635612b34782ab6dfdf932a8018\" hevc_mid_size=\"33180\" />\n</msg>\n"
+    }
+]

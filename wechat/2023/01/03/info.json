@@ -1,0 +1,66 @@
+[
+    {
+        "msgId": "386661",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-03 09:50:37",
+        "type": "1",
+        "content": "楼下酸辣粉要不要？"
+    },
+    {
+        "msgId": "386663",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-03 09:51:50",
+        "type": "1",
+        "content": "不要"
+    },
+    {
+        "msgId": "386664",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-03 09:52:27",
+        "type": "1",
+        "content": "OK"
+    },
+    {
+        "msgId": "386665",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-03 09:52:49",
+        "type": "1",
+        "content": "楼下的麻花多少钱？"
+    },
+    {
+        "msgId": "386667",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-03 09:53:33",
+        "type": "1",
+        "content": "差不多就楼下买也行"
+    },
+    {
+        "msgId": "386669",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-03 09:55:03",
+        "type": "3",
+        "content": ""
+    },
+    {
+        "msgId": "386670",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-03 09:55:08",
+        "type": "1",
+        "content": "是这个不"
+    },
+    {
+        "msgId": "386671",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-03 09:55:37",
+        "type": "1",
+        "content": "对"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "msgId": "270470",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-07-09 08:08:12",
+        "type": "1",
+        "content": "吃饭了"
+    },
+    {
+        "msgId": "270610",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-07-09 18:39:34",
+        "type": "1",
+        "content": "打完电话下来吧哈。待会要吃饭了"
+    },
+    {
+        "msgId": "270612",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-07-09 18:57:23",
+        "type": "1",
+        "content": "马上"
+    }
+]

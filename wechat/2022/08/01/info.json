@@ -1,0 +1,34 @@
+[
+    {
+        "msgId": "281804",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-08-01 21:04:12",
+        "type": "1090519089",
+        "content": "发送文件:白月-个人简历000.docx"
+    },
+    {
+        "msgId": "281807",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-08-01 21:23:09",
+        "type": "3",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<img aeskey=\"0846e838f865bd27791fa1dc2079f677\" encryver=\"0\" cdnthumbaeskey=\"0846e838f865bd27791fa1dc2079f677\" cdnthumburl=\"3057020100044b304902010002047fb8ee8002032f4ef20204d3bace6f020462e7d3bd042461323966666461352d626361662d343839332d613365372d636538373037393134336639020401150a020201000405004c4f2a00\" cdnthumblength=\"4021\" cdnthumbheight=\"120\" cdnthumbwidth=\"86\" cdnmidheight=\"0\" cdnmidwidth=\"0\" cdnhdheight=\"0\" cdnhdwidth=\"0\" cdnmidimgurl=\"3057020100044b304902010002047fb8ee8002032f4ef20204d3bace6f020462e7d3bd042461323966666461352d626361662d343839332d613365372d636538373037393134336639020401150a020201000405004c4f2a00\" length=\"1\" md5=\"02bdf88e75cfa5fbbbd17b9c8b099392\" hevc_mid_size=\"11352\" />\n</msg>\n"
+    },
+    {
+        "msgId": "281808",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-08-01 21:24:55",
+        "type": "1090519089",
+        "content": "发送文件:白月_行政专员.pdf"
+    },
+    {
+        "msgId": "281809",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-08-01 21:28:51",
+        "type": "1090519089",
+        "content": "发送文件:白月-行政专员.pdf"
+    }
+]

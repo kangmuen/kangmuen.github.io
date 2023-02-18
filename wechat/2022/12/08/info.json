@@ -1,0 +1,818 @@
+[
+    {
+        "msgId": "367653",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 07:55:44",
+        "type": "1",
+        "content": "出门"
+    },
+    {
+        "msgId": "367654",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 07:55:53",
+        "type": "1",
+        "content": "我进站了"
+    },
+    {
+        "msgId": "367655",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 07:57:28",
+        "type": "1",
+        "content": "忘记拿口罩"
+    },
+    {
+        "msgId": "367656",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 07:57:29",
+        "type": "1",
+        "content": "又回去了一趟[憨笑]"
+    },
+    {
+        "msgId": "367662",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 08:14:37",
+        "type": "1",
+        "content": "上车没呢"
+    },
+    {
+        "msgId": "367666",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 08:19:03",
+        "type": "1",
+        "content": "快到了"
+    },
+    {
+        "msgId": "367668",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 08:19:25",
+        "type": "1",
+        "content": "OK"
+    },
+    {
+        "msgId": "367669",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 08:19:31",
+        "type": "1",
+        "content": "我也快换乘呀"
+    },
+    {
+        "msgId": "367670",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 08:19:32",
+        "type": "1",
+        "content": "嗯呐"
+    },
+    {
+        "msgId": "367671",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 08:19:42",
+        "type": "1",
+        "content": "刚准备问你"
+    },
+    {
+        "msgId": "367672",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 08:27:47",
+        "type": "1",
+        "content": "下车了"
+    },
+    {
+        "msgId": "367673",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 08:28:20",
+        "type": "1",
+        "content": "OK"
+    },
+    {
+        "msgId": "367674",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 08:28:29",
+        "type": "1",
+        "content": "我也上10号线了"
+    },
+    {
+        "msgId": "367682",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 08:41:25",
+        "type": "1",
+        "content": "我到了"
+    },
+    {
+        "msgId": "367689",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 08:52:42",
+        "type": "1",
+        "content": "我也到了"
+    },
+    {
+        "msgId": "367703",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 09:06:14",
+        "type": "1",
+        "content": "嫂子说昨晚梦见我了，不咋好，把她吓醒了"
+    },
+    {
+        "msgId": "367705",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 09:07:52",
+        "type": "1",
+        "content": "哦，原来是做梦呀，我说咋想起来问好不好呢"
+    },
+    {
+        "msgId": "367706",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 09:08:03",
+        "type": "1",
+        "content": "哈哈哈哈"
+    },
+    {
+        "msgId": "367707",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 09:08:17",
+        "type": "1",
+        "content": "我以为问我喜事呢"
+    },
+    {
+        "msgId": "367761",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 10:00:31",
+        "type": "1",
+        "content": "打电话改套餐"
+    },
+    {
+        "msgId": "367762",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 10:00:34",
+        "type": "1",
+        "content": "忘了"
+    },
+    {
+        "msgId": "367765",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 10:01:04",
+        "type": "1",
+        "content": "嗯嗯"
+    },
+    {
+        "msgId": "367766",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 10:01:12",
+        "type": "1",
+        "content": "这个月应该都可以吧"
+    },
+    {
+        "msgId": "367769",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 10:01:55",
+        "type": "1",
+        "content": "https://zhuanlan.zhihu.com/p/449719696"
+    },
+    {
+        "msgId": "367770",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 10:01:57",
+        "type": "1",
+        "content": "你试试这个"
+    },
+    {
+        "msgId": "367814",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 10:33:12",
+        "type": "1",
+        "content": "我昨天做的核酸出结果了"
+    },
+    {
+        "msgId": "367815",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 10:33:17",
+        "type": "1",
+        "content": "刚刷新了一下"
+    },
+    {
+        "msgId": "367816",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 10:33:23",
+        "type": "1",
+        "content": "显示0天"
+    },
+    {
+        "msgId": "367820",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 10:39:42",
+        "type": "1",
+        "content": "我的还没出呢"
+    },
+    {
+        "msgId": "367830",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 10:51:06",
+        "type": "1",
+        "content": "咋回事"
+    },
+    {
+        "msgId": "367831",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 10:51:17",
+        "type": "1",
+        "content": "你昨天啥时候做的"
+    },
+    {
+        "msgId": "367832",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 10:51:35",
+        "type": "1",
+        "content": "上午11点多"
+    },
+    {
+        "msgId": "367833",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 10:51:50",
+        "type": "1",
+        "content": "比我之前做的两位同事也没有出"
+    },
+    {
+        "msgId": "367834",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 10:52:27",
+        "type": "1",
+        "content": "那估计就是现在出的慢了"
+    },
+    {
+        "msgId": "367835",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 10:52:33",
+        "type": "1",
+        "content": "我下午做的，估计下午出吧"
+    },
+    {
+        "msgId": "367846",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 10:55:20",
+        "type": "1",
+        "content": "现在十混一很多，复检的插队，所以正常核酸的测试管没有机会上机器"
+    },
+    {
+        "msgId": "367847",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 10:55:53",
+        "type": "1",
+        "content": "据说出现阳性要消毒一个小时，才能继续做后面的"
+    },
+    {
+        "msgId": "367848",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 10:56:11",
+        "type": "1",
+        "content": "谁知道呢"
+    },
+    {
+        "msgId": "367934",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:42:48",
+        "type": "1",
+        "content": "呀"
+    },
+    {
+        "msgId": "367935",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:42:52",
+        "type": "1",
+        "content": "忘记点外卖了"
+    },
+    {
+        "msgId": "367936",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:42:56",
+        "type": "1",
+        "content": "要出去吃了"
+    },
+    {
+        "msgId": "367937",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 11:43:09",
+        "type": "1",
+        "content": "出去吃吧"
+    },
+    {
+        "msgId": "367939",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:44:08",
+        "type": "1",
+        "content": "嗯呐，打卤面去"
+    },
+    {
+        "msgId": "367940",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 11:44:16",
+        "type": "1",
+        "content": "哈哈哈"
+    },
+    {
+        "msgId": "367941",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:44:16",
+        "type": "1",
+        "content": "再来两碗"
+    },
+    {
+        "msgId": "367942",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 11:44:32",
+        "type": "1",
+        "content": "又去薅羊毛"
+    },
+    {
+        "msgId": "367946",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:45:40",
+        "type": "1",
+        "content": "怎么能叫薅羊毛呢"
+    },
+    {
+        "msgId": "367947",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 11:45:54",
+        "type": "1",
+        "content": "怎么不是啦"
+    },
+    {
+        "msgId": "367948",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:45:55",
+        "type": "1",
+        "content": "25块钱呢"
+    },
+    {
+        "msgId": "367949",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 11:46:22",
+        "type": "1",
+        "content": "啊？"
+    },
+    {
+        "msgId": "367950",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 11:46:28",
+        "type": "1",
+        "content": "吃他两万"
+    },
+    {
+        "msgId": "367952",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:48:07",
+        "type": "1",
+        "content": "现在没劵了，就得原价吃了"
+    },
+    {
+        "msgId": "367953",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:48:10",
+        "type": "1",
+        "content": "25"
+    },
+    {
+        "msgId": "367954",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:48:13",
+        "type": "1",
+        "content": "也不便宜呢"
+    },
+    {
+        "msgId": "367956",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 11:48:45",
+        "type": "1",
+        "content": "两碗"
+    },
+    {
+        "msgId": "367957",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 11:48:49",
+        "type": "1",
+        "content": "打错字了"
+    },
+    {
+        "msgId": "367959",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 11:48:55",
+        "type": "1",
+        "content": "我都饿了"
+    },
+    {
+        "msgId": "367965",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:54:10",
+        "type": "1",
+        "content": "我肚子咕咕叫"
+    },
+    {
+        "msgId": "367968",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 11:54:47",
+        "type": "1",
+        "content": "想去吃饭"
+    },
+    {
+        "msgId": "367973",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:59:14",
+        "type": "1",
+        "content": "走"
+    },
+    {
+        "msgId": "367974",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:59:16",
+        "type": "1",
+        "content": "吃饭去"
+    },
+    {
+        "msgId": "367975",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:59:24",
+        "type": "1",
+        "content": "刚吃了同事一个沙琪玛"
+    },
+    {
+        "msgId": "367976",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 11:59:28",
+        "type": "1",
+        "content": "感觉活过来了"
+    },
+    {
+        "msgId": "367978",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 11:59:39",
+        "type": "1",
+        "content": "没到时间呢"
+    },
+    {
+        "msgId": "367980",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 12:00:33",
+        "type": "1",
+        "content": "走呀"
+    },
+    {
+        "msgId": "367992",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 12:14:01",
+        "type": "1",
+        "content": "我们吃麻辣烫"
+    },
+    {
+        "msgId": "368003",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 12:35:00",
+        "type": "1",
+        "content": "吃完了"
+    },
+    {
+        "msgId": "368004",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 12:35:08",
+        "type": "1",
+        "content": "就吃了一碗"
+    },
+    {
+        "msgId": "368011",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 12:42:40",
+        "type": "1",
+        "content": "我们也回来了"
+    },
+    {
+        "msgId": "368012",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 12:42:47",
+        "type": "1",
+        "content": "我今天只吃了18.1的"
+    },
+    {
+        "msgId": "368014",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 12:42:53",
+        "type": "1",
+        "content": "感觉没啥想吃的"
+    },
+    {
+        "msgId": "368031",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 13:25:05",
+        "type": "1",
+        "content": "我刚趴下，老板就来了，一上午都不在"
+    },
+    {
+        "msgId": "368059",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 13:58:03",
+        "type": "1",
+        "content": "好困呀"
+    },
+    {
+        "msgId": "368064",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 14:03:25",
+        "type": "1",
+        "content": "午休没"
+    },
+    {
+        "msgId": "368066",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 14:05:12",
+        "type": "1",
+        "content": "没，一堆事"
+    },
+    {
+        "msgId": "368067",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 14:05:15",
+        "type": "1",
+        "content": "完全没时间"
+    },
+    {
+        "msgId": "368109",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 14:20:26",
+        "type": "1",
+        "content": "好羡慕他们回家"
+    },
+    {
+        "msgId": "368110",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 14:20:26",
+        "type": "3",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<img aeskey=\"1795fc09392837882715716830a75751\" encryver=\"1\" cdnthumbaeskey=\"1795fc09392837882715716830a75751\" cdnthumburl=\"3057020100044b304902010002047fb8ee8002032f4ef202046bbace6f02046391822a042439346437663738342d643533362d346230632d623264392d3330306566356332623838320204011400020201000405004c4f2a00\" cdnthumblength=\"3542\" cdnthumbheight=\"114\" cdnthumbwidth=\"150\" cdnmidheight=\"0\" cdnmidwidth=\"0\" cdnhdheight=\"0\" cdnhdwidth=\"0\" cdnmidimgurl=\"3057020100044b304902010002047fb8ee8002032f4ef202046bbace6f02046391822a042439346437663738342d643533362d346230632d623264392d3330306566356332623838320204011400020201000405004c4f2a00\" length=\"65962\" md5=\"b48114a1102810eff2cd8fd0d797ccda\" />\n\t<platform_signature></platform_signature>\n\t<imgdatahash></imgdatahash>\n</msg>\n"
+    },
+    {
+        "msgId": "368112",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 14:21:10",
+        "type": "1",
+        "content": "不用羡慕，我们也快了"
+    },
+    {
+        "msgId": "368118",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 14:22:51",
+        "type": "1",
+        "content": "坚持就是胜利，加油"
+    },
+    {
+        "msgId": "368215",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 15:22:41",
+        "type": "49",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<appmsg appid=\"\" sdkver=\"\">\n\t\t<title>苏苏和阿恱的聊天记录</title>\n\t\t<des>苏苏:月：除了铁哥和郭总交代给你的工作，你对销售的工作感兴趣不？\n阿恱:销售，我没想过哎，苏姐，可以容我考虑一下吗[偷笑]\n苏苏:我生小牛之前，一直给神码供应线材线缆一点小活儿，每月会有一些光纤线材的单子，之前我带着冬青做，后来她\n苏苏:我回头找一下神码的领导，接着供线材线缆的活儿，你从合作伙伴那拿线材，卖给神码项目部，中间的差额除了交\n</des>\n\t\t<action>view</action>\n\t\t<type>19</type>\n\t\t<showtype>0</showtype>\n\t\t<content />\n\t\t<url />\n\t\t<dataurl />\n\t\t<lowurl />\n\t\t<lowdataurl />\n\t\t<recorditem>&lt;recordinfo&gt;&lt;title&gt;苏苏和阿恱的聊天记录&lt;/title&gt;&lt;desc&gt;苏苏:月：除了铁哥和郭总交代给你的工作，你对销售的工作感兴趣不？\n阿恱:销售，我没想过哎，苏姐，可以容我考虑一下吗[偷笑]\n苏苏:我生小牛之前，一直给神码供应线材线缆一点小活儿，每月会有一些光纤线材的单子，之前我带着冬青做，后来她\n苏苏:我回头找一下神码的领导，接着供线材线缆的活儿，你从合作伙伴那拿线材，卖给神码项目部，中间的差额除了交\n&lt;/desc&gt;&lt;datalist count=\"4\"&gt;&lt;dataitem dataid=\"b511f825f1e2f774ae860832d62c1596\" datatype=\"1\" datasourceid=\"5505772456934067345\"&gt;&lt;cdnencryver&gt;1&lt;/cdnencryver&gt;&lt;datadesc&gt;月：除了铁哥和郭总交代给你的工作，你对销售的工作感兴趣不？&lt;/datadesc&gt;&lt;sourcedatapath /&gt;&lt;sourcethumbpath /&gt;&lt;msgDataPath /&gt;&lt;msgThumpPath /&gt;&lt;sourcename&gt;苏苏&lt;/sourcename&gt;&lt;sourcetime&gt;2022-12-08 15:16:44&lt;/sourcetime&gt;&lt;fromnewmsgid&gt;5505772456934067345&lt;/fromnewmsgid&gt;&lt;dataitemsource&gt;&lt;fromusr&gt;wxid_pfehcupowq2s11&lt;/fromusr&gt;&lt;tousr&gt;wxid_uhwbwelbda9r22&lt;/tousr&gt;&lt;msgid&gt;5505772456934067345&lt;/msgid&gt;&lt;createtime&gt;1670483804&lt;/createtime&gt;&lt;/dataitemsource&gt;&lt;/dataitem&gt;&lt;dataitem dataid=\"49f46c60ebcd7ebebf175afbc97c255f\" datatype=\"1\" datasourceid=\"4247447561697224895\"&gt;&lt;cdnencryver&gt;1&lt;/cdnencryver&gt;&lt;datadesc&gt;销售，我没想过哎，苏姐，可以容我考虑一下吗[偷笑]&lt;/datadesc&gt;&lt;sourcedatapath /&gt;&lt;sourcethumbpath /&gt;&lt;msgDataPath /&gt;&lt;msgThumpPath /&gt;&lt;sourcename&gt;阿恱&lt;/sourcename&gt;&lt;sourcetime&gt;2022-12-08 15:18:38&lt;/sourcetime&gt;&lt;fromnewmsgid&gt;4247447561697224895&lt;/fromnewmsgid&gt;&lt;dataitemsource&gt;&lt;fromusr&gt;wxid_uhwbwelbda9r22&lt;/fromusr&gt;&lt;tousr&gt;wxid_pfehcupowq2s11&lt;/tousr&gt;&lt;msgid&gt;4247447561697224895&lt;/msgid&gt;&lt;createtime&gt;1670483918&lt;/createtime&gt;&lt;/dataitemsource&gt;&lt;/dataitem&gt;&lt;dataitem dataid=\"3a00e70e7e2d41acb80de8132004dc9f\" datatype=\"1\" datasourceid=\"4974949675916774048\"&gt;&lt;cdnencryver&gt;1&lt;/cdnencryver&gt;&lt;datadesc&gt;我生小牛之前，一直给神码供应线材线缆一点小活儿，每月会有一些光纤线材的单子，之前我带着冬青做，后来她回老家发展就搁置了，现在我想继续接活儿，你去和神码对接，成一单给你提成怎么样？&lt;/datadesc&gt;&lt;sourcedatapath /&gt;&lt;sourcethumbpath /&gt;&lt;msgDataPath /&gt;&lt;msgThumpPath /&gt;&lt;sourcename&gt;苏苏&lt;/sourcename&gt;&lt;sourcetime&gt;2022-12-08 15:18:54&lt;/sourcetime&gt;&lt;fromnewmsgid&gt;4974949675916774048&lt;/fromnewmsgid&gt;&lt;dataitemsource&gt;&lt;fromusr&gt;wxid_pfehcupowq2s11&lt;/fromusr&gt;&lt;tousr&gt;wxid_uhwbwelbda9r22&lt;/tousr&gt;&lt;msgid&gt;4974949675916774048&lt;/msgid&gt;&lt;createtime&gt;1670483934&lt;/createtime&gt;&lt;/dataitemsource&gt;&lt;/dataitem&gt;&lt;dataitem dataid=\"002045c33ad92dd6ddd1490ee6e4d5da\" datatype=\"1\" datasourceid=\"4457269175263162031\"&gt;&lt;cdnencryver&gt;1&lt;/cdnencryver&gt;&lt;datadesc&gt;我回头找一下神码的领导，接着供线材线缆的活儿，你从合作伙伴那拿线材，卖给神码项目部，中间的差额除了交税就是利润，然后给你抽提成，多卖多得&lt;/datadesc&gt;&lt;sourcedatapath /&gt;&lt;sourcethumbpath /&gt;&lt;msgDataPath /&gt;&lt;msgThumpPath /&gt;&lt;sourcename&gt;苏苏&lt;/sourcename&gt;&lt;sourcetime&gt;2022-12-08 15:21:18&lt;/sourcetime&gt;&lt;fromnewmsgid&gt;4457269175263162031&lt;/fromnewmsgid&gt;&lt;dataitemsource&gt;&lt;fromusr&gt;wxid_pfehcupowq2s11&lt;/fromusr&gt;&lt;tousr&gt;wxid_uhwbwelbda9r22&lt;/tousr&gt;&lt;msgid&gt;4457269175263162031&lt;/msgid&gt;&lt;createtime&gt;1670484078&lt;/createtime&gt;&lt;/dataitemsource&gt;&lt;/dataitem&gt;&lt;/datalist&gt;&lt;/recordinfo&gt;</recorditem>\n\t\t<thumburl />\n\t\t<messageaction />\n\t\t<laninfo />\n\t\t<extinfo />\n\t\t<sourceusername />\n\t\t<sourcedisplayname />\n\t\t<commenturl />\n\t\t<appattach>\n\t\t\t<totallen>0</totallen>\n\t\t\t<attachid />\n\t\t\t<emoticonmd5></emoticonmd5>\n\t\t\t<fileext />\n\t\t\t<aeskey></aeskey>\n\t\t</appattach>\n\t\t<weappinfo>\n\t\t\t<pagepath />\n\t\t\t<username />\n\t\t\t<appid />\n\t\t\t<appservicetype>0</appservicetype>\n\t\t</weappinfo>\n\t\t<websearch />\n\t</appmsg>\n\t<fromusername>wxid_uhwbwelbda9r22</fromusername>\n\t<scene>0</scene>\n\t<appinfo>\n\t\t<version>1</version>\n\t\t<appname />\n\t</appinfo>\n\t<commenturl />\n</msg>\n"
+    },
+    {
+        "msgId": "368254",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 16:01:34",
+        "type": "1",
+        "content": "你怎么看？"
+    },
+    {
+        "msgId": "368256",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 16:01:58",
+        "type": "1",
+        "content": "回去在说把"
+    },
+    {
+        "msgId": "368257",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 16:02:21",
+        "type": "1",
+        "content": "嗯呐"
+    },
+    {
+        "msgId": "368445",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 17:17:57",
+        "type": "1",
+        "content": "要不要再买一瓶那个红糖"
+    },
+    {
+        "msgId": "368446",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 17:18:26",
+        "type": "1",
+        "content": "上次广西买的还没开口呢"
+    },
+    {
+        "msgId": "368448",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 17:18:37",
+        "type": "1",
+        "content": "暂时别买了"
+    },
+    {
+        "msgId": "368452",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 17:18:54",
+        "type": "1",
+        "content": "好吧，回去开头喝一杯吧"
+    },
+    {
+        "msgId": "368454",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 17:19:24",
+        "type": "1",
+        "content": "没得问题"
+    },
+    {
+        "msgId": "368536",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 18:09:39",
+        "type": "1",
+        "content": "上车了"
+    },
+    {
+        "msgId": "368543",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 18:19:50",
+        "type": "1",
+        "content": "我也进站了"
+    },
+    {
+        "msgId": "368585",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 18:35:35",
+        "type": "1",
+        "content": "等你回来吃饭"
+    },
+    {
+        "msgId": "368587",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 18:35:43",
+        "type": "1",
+        "content": "你到了？"
+    },
+    {
+        "msgId": "368589",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 18:35:51",
+        "type": "1",
+        "content": "马上"
+    },
+    {
+        "msgId": "368590",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 18:36:02",
+        "type": "1",
+        "content": "OK"
+    },
+    {
+        "msgId": "368591",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 18:36:05",
+        "type": "1",
+        "content": "需要买啥不"
+    },
+    {
+        "msgId": "368592",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 18:36:40",
+        "type": "1",
+        "content": "鸡蛋"
+    },
+    {
+        "msgId": "368593",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 18:36:50",
+        "type": "1",
+        "content": "好嘞"
+    },
+    {
+        "msgId": "368641",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 19:10:22",
+        "type": "1",
+        "content": "老公，到哪了？"
+    },
+    {
+        "msgId": "368642",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 19:10:31",
+        "type": "1",
+        "content": "下一站"
+    },
+    {
+        "msgId": "368643",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-12-08 19:10:49",
+        "type": "1",
+        "content": "等你回来做豆豉菜"
+    },
+    {
+        "msgId": "368644",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-12-08 19:10:56",
+        "type": "1",
+        "content": "OK"
+    }
+]

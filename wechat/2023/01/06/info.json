@@ -1,0 +1,698 @@
+[
+    {
+        "msgId": "389382",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 08:59:53",
+        "type": "1",
+        "content": "开始干活"
+    },
+    {
+        "msgId": "389383",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 09:00:15",
+        "type": "1",
+        "content": "我也到了"
+    },
+    {
+        "msgId": "389384",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 09:00:17",
+        "type": "1",
+        "content": "在干活"
+    },
+    {
+        "msgId": "389385",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 09:00:39",
+        "type": "1",
+        "content": "这么快"
+    },
+    {
+        "msgId": "389386",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 09:00:45",
+        "type": "1",
+        "content": "不想干活[苦涩]"
+    },
+    {
+        "msgId": "389387",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 09:00:58",
+        "type": "3",
+        "content": ""
+    },
+    {
+        "msgId": "389390",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 09:03:54",
+        "type": "1",
+        "content": "没事儿"
+    },
+    {
+        "msgId": "389391",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 09:04:00",
+        "type": "1",
+        "content": "这是好结果"
+    },
+    {
+        "msgId": "389392",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 09:04:23",
+        "type": "1",
+        "content": "就得聊聊，不然大家都不舒服"
+    },
+    {
+        "msgId": "389393",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 09:04:47",
+        "type": "1",
+        "content": "说明王总还在在赵总那说话有用的"
+    },
+    {
+        "msgId": "389394",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 09:06:15",
+        "type": "1",
+        "content": "对的"
+    },
+    {
+        "msgId": "389395",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 09:06:18",
+        "type": "1",
+        "content": "那肯定呀"
+    },
+    {
+        "msgId": "389396",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 09:07:29",
+        "type": "1",
+        "content": "嗯嗯"
+    },
+    {
+        "msgId": "389397",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 09:08:15",
+        "type": "1",
+        "content": "好好干活吧，之后长点教训，干活和分配任务啥的，都留点证据"
+    },
+    {
+        "msgId": "389398",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 09:15:20",
+        "type": "1",
+        "content": "嗯呐"
+    },
+    {
+        "msgId": "389470",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 10:13:41",
+        "type": "1",
+        "content": "你的麻花分了吗？"
+    },
+    {
+        "msgId": "389472",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 10:14:39",
+        "type": "1",
+        "content": "嗯呐"
+    },
+    {
+        "msgId": "389473",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 10:14:41",
+        "type": "1",
+        "content": "分了"
+    },
+    {
+        "msgId": "389474",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 10:14:51",
+        "type": "1",
+        "content": "分完了？"
+    },
+    {
+        "msgId": "389475",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 10:15:00",
+        "type": "1",
+        "content": "剩下的放桌子上了"
+    },
+    {
+        "msgId": "389476",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 10:15:06",
+        "type": "1",
+        "content": "我们人太少了，还有好多"
+    },
+    {
+        "msgId": "389477",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 10:15:25",
+        "type": "1",
+        "content": "哈哈"
+    },
+    {
+        "msgId": "389478",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 10:15:29",
+        "type": "1",
+        "content": "我也没分完"
+    },
+    {
+        "msgId": "389479",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 10:15:30",
+        "type": "1",
+        "content": "把袋子带回来呗"
+    },
+    {
+        "msgId": "389481",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 10:17:37",
+        "type": "1",
+        "content": "袋子？"
+    },
+    {
+        "msgId": "389483",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 10:17:47",
+        "type": "1",
+        "content": "哦，那个呀"
+    },
+    {
+        "msgId": "389484",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 10:17:52",
+        "type": "1",
+        "content": "我晚上待会去"
+    },
+    {
+        "msgId": "389485",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 10:17:54",
+        "type": "1",
+        "content": "嗯，陈建平那个"
+    },
+    {
+        "msgId": "389486",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 10:18:20",
+        "type": "1",
+        "content": "嗯哪"
+    },
+    {
+        "msgId": "389652",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 12:16:49",
+        "type": "1",
+        "content": "干饭干饭"
+    },
+    {
+        "msgId": "389654",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 12:17:16",
+        "type": "3",
+        "content": ""
+    },
+    {
+        "msgId": "389655",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 12:21:08",
+        "type": "1",
+        "content": "我吃杨国福"
+    },
+    {
+        "msgId": "389656",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 12:21:31",
+        "type": "822083633",
+        "content": "没事儿，不要气馁[憨笑]"
+    },
+    {
+        "msgId": "389677",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 12:46:22",
+        "type": "1",
+        "content": "都是搞笑，最后还是定好的，候选啥的都是开玩笑"
+    },
+    {
+        "msgId": "389685",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 12:48:20",
+        "type": "1",
+        "content": "母公司在哪"
+    },
+    {
+        "msgId": "389688",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 12:53:33",
+        "type": "1",
+        "content": "算了，无所谓的，好好工作，为了这边暂时还不错的工资就好"
+    },
+    {
+        "msgId": "389689",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 12:53:58",
+        "type": "1",
+        "content": "本来这个世界就没有绝对的公平"
+    },
+    {
+        "msgId": "389703",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 13:14:22",
+        "type": "1",
+        "content": "开普，就在这附近两站"
+    },
+    {
+        "msgId": "389724",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 13:17:29",
+        "type": "1",
+        "content": "睡了会"
+    },
+    {
+        "msgId": "389725",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 13:17:46",
+        "type": "1",
+        "content": "感觉今天风特别大，但是回温了"
+    },
+    {
+        "msgId": "389729",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 13:20:45",
+        "type": "1",
+        "content": "我也准备睡来着，没睡着"
+    },
+    {
+        "msgId": "389730",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 13:21:01",
+        "type": "1",
+        "content": "气不过"
+    },
+    {
+        "msgId": "389731",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 13:21:06",
+        "type": "1",
+        "content": "[奸笑][奸笑]"
+    },
+    {
+        "msgId": "389732",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 13:24:17",
+        "type": "1",
+        "content": "那不至于"
+    },
+    {
+        "msgId": "389733",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 13:24:28",
+        "type": "1",
+        "content": "我知道肯定当不成"
+    },
+    {
+        "msgId": "389734",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 13:24:59",
+        "type": "1",
+        "content": "但是投票阶段估计很逗"
+    },
+    {
+        "msgId": "389735",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 13:25:00",
+        "type": "1",
+        "content": "可惜了"
+    },
+    {
+        "msgId": "389736",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 13:25:38",
+        "type": "1",
+        "content": "人不是说取消了投票环节嘛"
+    },
+    {
+        "msgId": "389737",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 13:26:03",
+        "type": "1",
+        "content": "对呀"
+    },
+    {
+        "msgId": "389738",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 13:26:13",
+        "type": "1",
+        "content": "所以可惜呀"
+    },
+    {
+        "msgId": "389739",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 13:26:23",
+        "type": "1",
+        "content": "哈哈哈"
+    },
+    {
+        "msgId": "389740",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 13:26:35",
+        "type": "1",
+        "content": "不管他了"
+    },
+    {
+        "msgId": "389741",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 13:26:47",
+        "type": "1",
+        "content": "改过去的就过去了"
+    },
+    {
+        "msgId": "389745",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 13:30:39",
+        "type": "1",
+        "content": "嗯"
+    },
+    {
+        "msgId": "389816",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 14:32:15",
+        "type": "1",
+        "content": "社交网络"
+    },
+    {
+        "msgId": "389817",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 14:32:43",
+        "type": "1",
+        "content": "老公，记得提醒我看这个电影[阴险]"
+    },
+    {
+        "msgId": "389820",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 14:35:34",
+        "type": "1",
+        "content": "这是个啥电影"
+    },
+    {
+        "msgId": "389821",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 14:36:15",
+        "type": "1",
+        "content": "好像有点意思"
+    },
+    {
+        "msgId": "389822",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 14:36:21",
+        "type": "1",
+        "content": "facebook为原型"
+    },
+    {
+        "msgId": "389823",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 14:36:27",
+        "type": "1",
+        "content": "大卫芬奇导演"
+    },
+    {
+        "msgId": "389826",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 14:36:53",
+        "type": "47",
+        "content": "2023/01/06/emoji/a3afbf59e5144a2684bbc0519e0c617d.gif"
+    },
+    {
+        "msgId": "389960",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 15:51:24",
+        "type": "3",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<img aeskey=\"dfff011a6d0b2d16a3b2909eee986364\" encryver=\"1\" cdnthumbaeskey=\"dfff011a6d0b2d16a3b2909eee986364\" cdnthumburl=\"3057020100044b304902010002047fb8ee8002032f533e020424f2b174020463b7d2fc042438343233616166612d383537372d343862622d383632302d363865626164313331666631020401150a020201000405004c4f2a00\" cdnthumblength=\"5607\" cdnthumbheight=\"144\" cdnthumbwidth=\"67\" cdnmidheight=\"0\" cdnmidwidth=\"0\" cdnhdheight=\"0\" cdnhdwidth=\"0\" cdnmidimgurl=\"3057020100044b304902010002047fb8ee8002032f533e020424f2b174020463b7d2fc042438343233616166612d383537372d343862622d383632302d363865626164313331666631020401150a020201000405004c4f2a00\" length=\"86250\" md5=\"641cba46035a98a5e4c62522d4e5e7a0\" hevc_mid_size=\"86250\" />\n\t<platform_signature></platform_signature>\n\t<imgdatahash></imgdatahash>\n</msg>\n"
+    },
+    {
+        "msgId": "389961",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 15:51:30",
+        "type": "1",
+        "content": "咱们的鞋到了"
+    },
+    {
+        "msgId": "390138",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 18:12:28",
+        "type": "1",
+        "content": "下班回家喽"
+    },
+    {
+        "msgId": "390150",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 18:48:59",
+        "type": "1",
+        "content": "下班"
+    },
+    {
+        "msgId": "390151",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 18:49:23",
+        "type": "1",
+        "content": "OK"
+    },
+    {
+        "msgId": "390155",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 18:52:09",
+        "type": "1",
+        "content": "老赵今天来了，我跟他聊了一下午"
+    },
+    {
+        "msgId": "390158",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 18:52:22",
+        "type": "1",
+        "content": "他说要扣钱，扣绩效60%"
+    },
+    {
+        "msgId": "390166",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 18:54:38",
+        "type": "1",
+        "content": "那是多少钱？"
+    },
+    {
+        "msgId": "390167",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 18:54:51",
+        "type": "1",
+        "content": "预估应该是2千多"
+    },
+    {
+        "msgId": "390168",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 18:55:03",
+        "type": "1",
+        "content": "回来说吧"
+    },
+    {
+        "msgId": "390169",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 18:55:08",
+        "type": "1",
+        "content": "嗯呐"
+    },
+    {
+        "msgId": "390170",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 18:55:17",
+        "type": "1",
+        "content": "我要回去了，不在这浪费时间了"
+    },
+    {
+        "msgId": "390171",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 18:55:42",
+        "type": "1",
+        "content": "如果没确定，那就聊一下"
+    },
+    {
+        "msgId": "390173",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 18:55:54",
+        "type": "1",
+        "content": "如果确定了，就回来吧"
+    },
+    {
+        "msgId": "390177",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 19:02:48",
+        "type": "1",
+        "content": "不想跟他聊了，没用"
+    },
+    {
+        "msgId": "390178",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 19:02:52",
+        "type": "1",
+        "content": "浪费口舌"
+    },
+    {
+        "msgId": "390179",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 19:03:41",
+        "type": "1",
+        "content": "那没事了就回吧"
+    },
+    {
+        "msgId": "390183",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 19:06:59",
+        "type": "1",
+        "content": "嗯哪"
+    },
+    {
+        "msgId": "390184",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 19:07:01",
+        "type": "1",
+        "content": "在路上了"
+    },
+    {
+        "msgId": "390196",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 19:37:10",
+        "type": "1",
+        "content": "忘记拿袋子了"
+    },
+    {
+        "msgId": "390202",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 19:37:53",
+        "type": "1",
+        "content": "下次"
+    },
+    {
+        "msgId": "390203",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 19:38:01",
+        "type": "1",
+        "content": "记得取快递[破涕为笑]"
+    },
+    {
+        "msgId": "390204",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 19:38:42",
+        "type": "1",
+        "content": "OK"
+    },
+    {
+        "msgId": "390205",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 19:38:45",
+        "type": "1",
+        "content": "需要买啥不"
+    },
+    {
+        "msgId": "390206",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-06 19:38:53",
+        "type": "1",
+        "content": "不用的"
+    },
+    {
+        "msgId": "390245",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-06 20:16:58",
+        "type": "1",
+        "content": "就两个对吧"
+    }
+]

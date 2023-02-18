@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-99ef66a0","path":"/wechat/","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1676740260000,"contributors":[{"name":"Thirty","email":"5264thirty@gmail.com","commits":3}]},"filePathRelative":"wechat/index.md"}');export{t as data};

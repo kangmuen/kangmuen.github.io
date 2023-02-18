@@ -1,0 +1,1082 @@
+[
+    {
+        "msgId": "347704",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 07:39:28",
+        "type": "34",
+        "content": "wxid_uhwbwelbda9r22:2216:1:\n"
+    },
+    {
+        "msgId": "347705",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 07:39:42",
+        "type": "1",
+        "content": "怎么了"
+    },
+    {
+        "msgId": "347706",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 07:39:57",
+        "type": "34",
+        "content": "wxid_uhwbwelbda9r22:6033:1:\n"
+    },
+    {
+        "msgId": "347707",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 07:40:14",
+        "type": "34",
+        "content": "wxid_uhwbwelbda9r22:11821:1:\n"
+    },
+    {
+        "msgId": "347708",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 07:55:08",
+        "type": "49",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<appmsg appid=\"\" sdkver=\"\">\n\t\t<title><![CDATA[邀请你加入群聊]]></title>\n\t\t<des><![CDATA[\"阿恱\"邀请你加入群聊\"马连店家园5号楼3单元楼室管理群\"，进入可查看详情。]]></des>\n\t\t<action>view</action>\n\t\t<type>5</type>\n\t\t<showtype>0</showtype>\n\t\t<content />\n\t\t<url><![CDATA[https://support.weixin.qq.com/cgi-bin/mmsupport-bin/addchatroombyinvite?ticket=AUW%2BvbiK5kbBUR2qehx7yg%3D%3D]]></url>\n\t\t<thumburl><![CDATA[http://wx.qlogo.cn/mmcrhead/I1OPdTuWhE98wQKQoajN1PwfliaZfUicSnHvtibgmYuxpyj9zu3TvAIFfUTEfqdG2D5UFnVETFvQRRoqJtm3U8X5vI3REbibMSeD/0]]></thumburl>\n\t\t<lowurl />\n\t\t<appattach>\n\t\t\t<totallen>0</totallen>\n\t\t\t<attachid />\n\t\t\t<fileext />\n\t\t</appattach>\n\t\t<extinfo />\n\t</appmsg>\n\t<appinfo>\n\t\t<version />\n\t\t<appname />\n\t</appinfo>\n</msg>\n"
+    },
+    {
+        "msgId": "348009",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 09:56:37",
+        "type": "1",
+        "content": "做了个核酸"
+    },
+    {
+        "msgId": "348010",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 09:57:06",
+        "type": "1",
+        "content": "ok，我下午也出门做个核酸"
+    },
+    {
+        "msgId": "348011",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 09:57:25",
+        "type": "47",
+        "content": "2022/11/21/emoji/8b39355f630241a2b76421ba42135d28.gif"
+    },
+    {
+        "msgId": "348092",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 10:37:43",
+        "type": "1",
+        "content": "到公司了"
+    },
+    {
+        "msgId": "348095",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 10:38:45",
+        "type": "1",
+        "content": "好嘞"
+    },
+    {
+        "msgId": "348101",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 10:42:46",
+        "type": "1",
+        "content": "刚进公司就听到肚子叫了"
+    },
+    {
+        "msgId": "348103",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 10:43:09",
+        "type": "1",
+        "content": "果然路上是最消耗体力的"
+    },
+    {
+        "msgId": "348109",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 10:47:06",
+        "type": "1",
+        "content": "我还在开会"
+    },
+    {
+        "msgId": "348122",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 10:56:44",
+        "type": "1",
+        "content": "加油！努力！多赚人民币[加油]"
+    },
+    {
+        "msgId": "348144",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:15:13",
+        "type": "1",
+        "content": "老公，帮忙把那些剩余的咖啡排个照片给我。在电脑旁边的小柜子里，带上桌面上的几支一起"
+    },
+    {
+        "msgId": "348145",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:15:32",
+        "type": "1",
+        "content": "应该是还有四盒零几支"
+    },
+    {
+        "msgId": "348149",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 11:18:20",
+        "type": "1",
+        "content": "我找找"
+    },
+    {
+        "msgId": "348151",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 11:19:33",
+        "type": "3",
+        "content": ""
+    },
+    {
+        "msgId": "348152",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 11:19:36",
+        "type": "1",
+        "content": "行不"
+    },
+    {
+        "msgId": "348154",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:19:44",
+        "type": "1",
+        "content": "OK"
+    },
+    {
+        "msgId": "348155",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:19:49",
+        "type": "1",
+        "content": "谢谢老公"
+    },
+    {
+        "msgId": "348195",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 11:38:43",
+        "type": "3",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<img aeskey=\"0413d8d487fb7a13c7a1d3b2e1d4d007\" encryver=\"1\" cdnthumbaeskey=\"0413d8d487fb7a13c7a1d3b2e1d4d007\" cdnthumburl=\"3057020100044b30490201000204b7583fce02032f4f57020416a6206f0204637af2c3042430346666623939312d636634382d346438642d613864662d6239333734663733633935300204011400020201000405004c51e700\" cdnthumblength=\"2262\" cdnthumbheight=\"150\" cdnthumbwidth=\"67\" cdnmidheight=\"0\" cdnmidwidth=\"0\" cdnhdheight=\"0\" cdnhdwidth=\"0\" cdnmidimgurl=\"3057020100044b30490201000204b7583fce02032f4f57020416a6206f0204637af2c3042430346666623939312d636634382d346438642d613864662d6239333734663733633935300204011400020201000405004c51e700\" length=\"455501\" md5=\"ba43e91fc75ddd7dc6c744c1d5d16267\" />\n\t<platform_signature></platform_signature>\n\t<imgdatahash></imgdatahash>\n</msg>\n"
+    },
+    {
+        "msgId": "348196",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:39:30",
+        "type": "1",
+        "content": "[叹气]"
+    },
+    {
+        "msgId": "348198",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:39:50",
+        "type": "1",
+        "content": "我突然感觉一线打工人好难做"
+    },
+    {
+        "msgId": "348199",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 11:40:33",
+        "type": "1",
+        "content": "真的是，太难了"
+    },
+    {
+        "msgId": "348205",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:41:47",
+        "type": "1",
+        "content": "公司那边处处防着你隐瞒翘班。个人又是力不从心"
+    },
+    {
+        "msgId": "348208",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 11:42:06",
+        "type": "1",
+        "content": "不知道啥时候能正常"
+    },
+    {
+        "msgId": "348209",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 11:42:10",
+        "type": "1",
+        "content": "遥遥无期"
+    },
+    {
+        "msgId": "348210",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:42:11",
+        "type": "1",
+        "content": "延伸一点感觉活着太累了"
+    },
+    {
+        "msgId": "348211",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 11:42:23",
+        "type": "1",
+        "content": "石家庄眼看着要放开，现在又打脸了"
+    },
+    {
+        "msgId": "348213",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:42:36",
+        "type": "1",
+        "content": "是呀"
+    },
+    {
+        "msgId": "348215",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:42:59",
+        "type": "1",
+        "content": "这样想想，其实疫情防控的更难"
+    },
+    {
+        "msgId": "348218",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:43:27",
+        "type": "1",
+        "content": "在想，石家庄的解又封，是不是跟北京通报的死亡病例有关"
+    },
+    {
+        "msgId": "348220",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 11:43:48",
+        "type": "1",
+        "content": "很有可能"
+    },
+    {
+        "msgId": "348221",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 11:44:01",
+        "type": "1",
+        "content": "听说石家庄也死人了，但是没报告出来"
+    },
+    {
+        "msgId": "348222",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:44:30",
+        "type": "1",
+        "content": "为了有基础病的老人，以及保证身边没有小阳人的情况，还是继续保守一些"
+    },
+    {
+        "msgId": "348224",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:44:50",
+        "type": "1",
+        "content": "是吗？没有通报咱们就当没有吧，不然人心惶惶的"
+    },
+    {
+        "msgId": "348225",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:45:14",
+        "type": "1",
+        "content": "你记得下午做核酸哈"
+    },
+    {
+        "msgId": "348227",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 11:47:25",
+        "type": "1",
+        "content": "嗯呐，一定记得"
+    },
+    {
+        "msgId": "348242",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 11:59:09",
+        "type": "1",
+        "content": "楼下餐馆都不允许堂食了"
+    },
+    {
+        "msgId": "348248",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 12:12:40",
+        "type": "1",
+        "content": "那咋办呀"
+    },
+    {
+        "msgId": "348249",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 12:12:43",
+        "type": "1",
+        "content": "你咋吃饭呀"
+    },
+    {
+        "msgId": "348253",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 12:14:59",
+        "type": "1",
+        "content": "打包了"
+    },
+    {
+        "msgId": "348254",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 12:15:06",
+        "type": "1",
+        "content": "OK。那就行"
+    },
+    {
+        "msgId": "348255",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 12:15:10",
+        "type": "1",
+        "content": "我也要去泡面了"
+    },
+    {
+        "msgId": "348259",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 12:16:16",
+        "type": "47",
+        "content": "2022/11/21/emoji/4dd12c40867748e3b2e2d7583be8f178.gif"
+    },
+    {
+        "msgId": "348260",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 12:19:32",
+        "type": "3",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<img aeskey=\"691a54cac585861a50793ff623ddd0ba\" encryver=\"0\" cdnthumbaeskey=\"691a54cac585861a50793ff623ddd0ba\" cdnthumburl=\"3057020100044b304902010002047fb8ee8002032f501e02042a855ad30204637afc54042432376336636661332d626566382d343336362d616231392d613031333862393131323032020401150a020201000405004c52ae00\" cdnthumblength=\"5514\" cdnthumbheight=\"68\" cdnthumbwidth=\"120\" cdnmidheight=\"0\" cdnmidwidth=\"0\" cdnhdheight=\"0\" cdnhdwidth=\"0\" cdnmidimgurl=\"3057020100044b304902010002047fb8ee8002032f501e02042a855ad30204637afc54042432376336636661332d626566382d343336362d616231392d613031333862393131323032020401150a020201000405004c52ae00\" length=\"1\" md5=\"0b04b069a20e6e03cb68f11e4e4c13d2\" hevc_mid_size=\"312451\" />\n\t<platform_signature></platform_signature>\n\t<imgdatahash></imgdatahash>\n</msg>\n"
+    },
+    {
+        "msgId": "348261",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 12:20:26",
+        "type": "1",
+        "content": "河北工程"
+    },
+    {
+        "msgId": "348267",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 12:22:12",
+        "type": "1",
+        "content": "哟"
+    },
+    {
+        "msgId": "348268",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 12:22:15",
+        "type": "1",
+        "content": "弄的还不赖"
+    },
+    {
+        "msgId": "348360",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 14:48:19",
+        "type": "1",
+        "content": "打哈欠"
+    },
+    {
+        "msgId": "348376",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 14:52:20",
+        "type": "3",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<img aeskey=\"7fbb5fe3d5d7472db24d2e33b0ec63fc\" encryver=\"1\" cdnthumbaeskey=\"7fbb5fe3d5d7472db24d2e33b0ec63fc\" cdnthumburl=\"3057020100044b30490201000204b7583fce02034c53db020498cc6ddf0204637b2024042439633334373739362d613638662d343066392d616265392d3537376462333162366535640204011400020201000405004c53db00\" cdnthumblength=\"3180\" cdnthumbheight=\"100\" cdnthumbwidth=\"150\" cdnmidheight=\"0\" cdnmidwidth=\"0\" cdnhdheight=\"0\" cdnhdwidth=\"0\" cdnmidimgurl=\"3057020100044b30490201000204b7583fce02034c53db020498cc6ddf0204637b2024042439633334373739362d613638662d343066392d616265392d3537376462333162366535640204011400020201000405004c53db00\" length=\"38555\" md5=\"f61d07f55ec5acd6362dcbf48b45f7d8\" />\n\t<platform_signature></platform_signature>\n\t<imgdatahash></imgdatahash>\n</msg>\n"
+    },
+    {
+        "msgId": "348377",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 14:52:36",
+        "type": "1",
+        "content": "老赵这个智障，又开始瞎搞，气死人"
+    },
+    {
+        "msgId": "348378",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 14:53:41",
+        "type": "1",
+        "content": "啥意思，"
+    },
+    {
+        "msgId": "348380",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 14:54:00",
+        "type": "1",
+        "content": "话里有话点你正点下班？"
+    },
+    {
+        "msgId": "348382",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 14:54:33",
+        "type": "1",
+        "content": "嗯"
+    },
+    {
+        "msgId": "348383",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 14:55:05",
+        "type": "1",
+        "content": "耽误进程了？"
+    },
+    {
+        "msgId": "348389",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 14:56:58",
+        "type": "1",
+        "content": "不是我的原因，是他自己的规划有问题，自己明明规划不明白，还不早点把问题抛出来"
+    },
+    {
+        "msgId": "348392",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 14:57:25",
+        "type": "1",
+        "content": "就那样吧"
+    },
+    {
+        "msgId": "348393",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 14:57:29",
+        "type": "1",
+        "content": "人家是领导的"
+    },
+    {
+        "msgId": "348394",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 14:57:41",
+        "type": "1",
+        "content": "有什么办法"
+    },
+    {
+        "msgId": "348395",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 14:58:07",
+        "type": "268445456",
+        "content": "\"Light\" 撤回了一条消息"
+    },
+    {
+        "msgId": "348397",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 14:58:44",
+        "type": "3",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<img aeskey=\"3625c72d181701b7cdb681fb8625b85a\" encryver=\"1\" cdnthumbaeskey=\"3625c72d181701b7cdb681fb8625b85a\" cdnthumburl=\"3057020100044b30490201000204b7583fce02034c53db020498cc6ddf0204637b21a4042462656265306361652d333636662d343265632d616537302d3865336666343562353666360204011400020201000405004c53db00\" cdnthumblength=\"2077\" cdnthumbheight=\"66\" cdnthumbwidth=\"150\" cdnmidheight=\"0\" cdnmidwidth=\"0\" cdnhdheight=\"0\" cdnhdwidth=\"0\" cdnmidimgurl=\"3057020100044b30490201000204b7583fce02034c53db020498cc6ddf0204637b21a4042462656265306361652d333636662d343265632d616537302d3865336666343562353666360204011400020201000405004c53db00\" length=\"25184\" md5=\"1ebeff6bc23a56674ccb4349515bbc78\" />\n\t<platform_signature></platform_signature>\n\t<imgdatahash></imgdatahash>\n</msg>\n"
+    },
+    {
+        "msgId": "348398",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 14:58:47",
+        "type": "1",
+        "content": "一个周会"
+    },
+    {
+        "msgId": "348400",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 14:58:57",
+        "type": "1",
+        "content": "还扯什么明年全员降薪"
+    },
+    {
+        "msgId": "348401",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 14:59:08",
+        "type": "1",
+        "content": "降了我就撤"
+    },
+    {
+        "msgId": "348402",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 14:59:40",
+        "type": "1",
+        "content": "哎，不好弄啊"
+    },
+    {
+        "msgId": "348404",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 15:01:14",
+        "type": "1",
+        "content": "这不马上年度就过完了，做领导的当然要考虑之后的运营了。现在不早"
+    },
+    {
+        "msgId": "348405",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 15:01:44",
+        "type": "1",
+        "content": "全员降薪，他都说出来了"
+    },
+    {
+        "msgId": "348406",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 15:01:51",
+        "type": "1",
+        "content": "还是在例会上"
+    },
+    {
+        "msgId": "348407",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 15:02:05",
+        "type": "1",
+        "content": "不知道是吓唬还是真的先提醒"
+    },
+    {
+        "msgId": "348408",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 15:02:53",
+        "type": "1",
+        "content": "空闲了可以看看同岗位的市场行情，先了解一下吧"
+    },
+    {
+        "msgId": "348409",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 15:03:30",
+        "type": "1",
+        "content": "嗯呐，感觉得准备骑驴找马了"
+    },
+    {
+        "msgId": "348410",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 15:03:36",
+        "type": "1",
+        "content": "靠不住了"
+    },
+    {
+        "msgId": "348413",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 15:05:30",
+        "type": "1",
+        "content": "工资普遍没有那么高了，要有心里预设"
+    },
+    {
+        "msgId": "348420",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 15:09:48",
+        "type": "1",
+        "content": "晓得，能保证不降薪就是最好的了"
+    },
+    {
+        "msgId": "348421",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 15:10:14",
+        "type": "1",
+        "content": "那是不是也可以考虑看看这边降多少"
+    },
+    {
+        "msgId": "348424",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 15:11:18",
+        "type": "1",
+        "content": "先干活吧"
+    },
+    {
+        "msgId": "348425",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 15:11:24",
+        "type": "1",
+        "content": "当然了，要不就说骑驴找马呢，找到高的就去，找不到，就委曲求全"
+    },
+    {
+        "msgId": "348428",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 15:11:44",
+        "type": "1",
+        "content": "嗯呐，赞同"
+    },
+    {
+        "msgId": "348595",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:13:58",
+        "type": "1",
+        "content": "臭宝晚上加班不？"
+    },
+    {
+        "msgId": "348597",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:14:49",
+        "type": "1",
+        "content": "不确定啊"
+    },
+    {
+        "msgId": "348599",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:14:56",
+        "type": "1",
+        "content": "改文档呢"
+    },
+    {
+        "msgId": "348600",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:15:01",
+        "type": "1",
+        "content": "怎么了"
+    },
+    {
+        "msgId": "348602",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:15:14",
+        "type": "1",
+        "content": "不加的话就准备煮粥了"
+    },
+    {
+        "msgId": "348603",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:15:50",
+        "type": "1",
+        "content": "有点早"
+    },
+    {
+        "msgId": "348604",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:15:55",
+        "type": "1",
+        "content": "6点了吧"
+    },
+    {
+        "msgId": "348605",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:16:13",
+        "type": "1",
+        "content": "用小锅煮，有点慢，我怕那个锅有味道"
+    },
+    {
+        "msgId": "348606",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:16:26",
+        "type": "1",
+        "content": "哦哦"
+    },
+    {
+        "msgId": "348607",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:16:31",
+        "type": "1",
+        "content": "那可以"
+    },
+    {
+        "msgId": "348623",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:36:43",
+        "type": "1",
+        "content": "有啥想吃的菜不"
+    },
+    {
+        "msgId": "348624",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:37:07",
+        "type": "1",
+        "content": "茄子或者白菜吧"
+    },
+    {
+        "msgId": "348625",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:37:12",
+        "type": "1",
+        "content": "咱们买的那些"
+    },
+    {
+        "msgId": "348627",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:37:28",
+        "type": "1",
+        "content": "你偏向那个就那个"
+    },
+    {
+        "msgId": "348628",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:37:38",
+        "type": "1",
+        "content": "ok，那就炒一个茄子？"
+    },
+    {
+        "msgId": "348629",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:37:49",
+        "type": "1",
+        "content": "一个够不够呀"
+    },
+    {
+        "msgId": "348630",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:38:02",
+        "type": "1",
+        "content": "差不多"
+    },
+    {
+        "msgId": "348631",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:38:07",
+        "type": "1",
+        "content": "ok"
+    },
+    {
+        "msgId": "348632",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:38:35",
+        "type": "1",
+        "content": "晚一点在准备菜吧"
+    },
+    {
+        "msgId": "348633",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:38:40",
+        "type": "1",
+        "content": "你现在不忙了？"
+    },
+    {
+        "msgId": "348634",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:38:51",
+        "type": "1",
+        "content": "嗯呐，在偷懒了"
+    },
+    {
+        "msgId": "348635",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:39:16",
+        "type": "1",
+        "content": "做核酸了吗？"
+    },
+    {
+        "msgId": "348636",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:39:27",
+        "type": "1",
+        "content": "还没，等下去做"
+    },
+    {
+        "msgId": "348640",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:39:46",
+        "type": "1",
+        "content": "嗯，别忘记了"
+    },
+    {
+        "msgId": "348647",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:45:18",
+        "type": "1",
+        "content": "我现在下去做一个"
+    },
+    {
+        "msgId": "348648",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:45:46",
+        "type": "1",
+        "content": "现在去？会不会他们找你"
+    },
+    {
+        "msgId": "348649",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:46:06",
+        "type": "1",
+        "content": "带着手机"
+    },
+    {
+        "msgId": "348650",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:46:08",
+        "type": "1",
+        "content": "没事"
+    },
+    {
+        "msgId": "348651",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:46:39",
+        "type": "1",
+        "content": "好嘞"
+    },
+    {
+        "msgId": "348654",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:52:57",
+        "type": "1",
+        "content": "人巨多"
+    },
+    {
+        "msgId": "348655",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:53:04",
+        "type": "3",
+        "content": ""
+    },
+    {
+        "msgId": "348656",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:53:27",
+        "type": "1",
+        "content": "哦呦"
+    },
+    {
+        "msgId": "348657",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:53:32",
+        "type": "1",
+        "content": "好多人"
+    },
+    {
+        "msgId": "348658",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 17:53:47",
+        "type": "1",
+        "content": "慢慢排吧，正好透口气"
+    },
+    {
+        "msgId": "348659",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 17:53:56",
+        "type": "1",
+        "content": "嗯哪"
+    },
+    {
+        "msgId": "348692",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 18:06:00",
+        "type": "1",
+        "content": "做完了"
+    },
+    {
+        "msgId": "348694",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 18:08:00",
+        "type": "1",
+        "content": "下班告诉我啊"
+    },
+    {
+        "msgId": "348697",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 18:08:32",
+        "type": "1",
+        "content": "OK，会的"
+    },
+    {
+        "msgId": "348705",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 18:29:08",
+        "type": "1",
+        "content": "老公，我这边估计要晚一会"
+    },
+    {
+        "msgId": "348706",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 18:29:13",
+        "type": "1",
+        "content": "嗯呐"
+    },
+    {
+        "msgId": "348707",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 18:29:14",
+        "type": "1",
+        "content": "没事"
+    },
+    {
+        "msgId": "348708",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 18:29:23",
+        "type": "1",
+        "content": "下班告诉我就行"
+    },
+    {
+        "msgId": "348710",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 18:30:00",
+        "type": "47",
+        "content": "2022/11/21/emoji/c538ed02be1b4cb2bcd5da24a0de97cf.gif"
+    },
+    {
+        "msgId": "348720",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 19:08:17",
+        "type": "1",
+        "content": "下班了"
+    },
+    {
+        "msgId": "348722",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 19:08:52",
+        "type": "1",
+        "content": "好累"
+    },
+    {
+        "msgId": "348723",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 19:09:00",
+        "type": "1",
+        "content": "上车告诉我，开始炒菜"
+    },
+    {
+        "msgId": "348725",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 19:09:08",
+        "type": "1",
+        "content": "不着急"
+    },
+    {
+        "msgId": "348727",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 19:13:48",
+        "type": "1",
+        "content": "嗯呐，那你快到的时候告诉我"
+    },
+    {
+        "msgId": "348728",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 19:13:59",
+        "type": "1",
+        "content": "嗯呐"
+    },
+    {
+        "msgId": "348736",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 19:28:21",
+        "type": "1",
+        "content": "到哪了？"
+    },
+    {
+        "msgId": "348738",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 19:29:15",
+        "type": "48",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<location x=\"40.065292\" y=\"116.330254\" scale=\"15\" label=\"昌平区建材城西路85号甲7号\" maptype=\"0\" poiname=\"昌平区南店北路(北京回龙观医院)\" poiid=\"\" buildingId=\"\" floorName=\"\" poiCategoryTips=\"\" poiBusinessHour=\"\" poiPhone=\"\" poiPriceTips=\"\" isFromPoiList=\"false\" />\n</msg>\n"
+    },
+    {
+        "msgId": "348739",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 19:29:31",
+        "type": "1",
+        "content": "20分钟"
+    },
+    {
+        "msgId": "348741",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 19:30:04",
+        "type": "1",
+        "content": "OK"
+    },
+    {
+        "msgId": "348759",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-21 19:52:15",
+        "type": "1",
+        "content": "到哪了？"
+    },
+    {
+        "msgId": "348760",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-21 19:52:21",
+        "type": "1",
+        "content": "楼下"
+    }
+]

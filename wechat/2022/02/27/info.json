@@ -1,0 +1,26 @@
+[
+    {
+        "msgId": "200790",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-02-27 20:13:27",
+        "type": "436207665",
+        "content": "微信红包:恭喜发财，大吉大利"
+    },
+    {
+        "msgId": "200791",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-02-27 20:13:37",
+        "type": "10000",
+        "content": "  Light领取了你的红包"
+    },
+    {
+        "msgId": "200792",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-02-27 20:17:06",
+        "type": "47",
+        "content": "2022/02/27/emoji/0b0f2d98775546779492f7d71e990803.gif"
+    }
+]

@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,Q as e,t as n}from"./framework-08ee8297.js";const r={},s=e("h1",{id:"娃的成长历程",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#娃的成长历程","aria-hidden":"true"},"#"),n(" 娃的成长历程")],-1),o=[s];function _(d,i){return a(),c("div",null,o)}const l=t(r,[["render",_],["__file","index.html.vue"]]);export{l as default};

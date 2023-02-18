@@ -1,0 +1,42 @@
+[
+    {
+        "msgId": "401152",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-27 06:48:40",
+        "type": "3",
+        "content": ""
+    },
+    {
+        "msgId": "401153",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-27 07:50:42",
+        "type": "1",
+        "content": "我到了"
+    },
+    {
+        "msgId": "401154",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-27 07:50:53",
+        "type": "1",
+        "content": "我也刚到"
+    },
+    {
+        "msgId": "401155",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-27 07:51:04",
+        "type": "1",
+        "content": "OK"
+    },
+    {
+        "msgId": "401179",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-27 10:31:34",
+        "type": "50",
+        "content": "voip_content_voice"
+    }
+]

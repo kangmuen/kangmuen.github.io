@@ -1,0 +1,26 @@
+[
+    {
+        "msgId": "242616",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-05-20 11:29:55",
+        "type": "419430449",
+        "content": "微信转账:收到转账￥520.00元。如需收钱，请点此升级至最新版本"
+    },
+    {
+        "msgId": "242618",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-05-20 11:30:31",
+        "type": "419430449",
+        "content": "微信转账:收到转账520.00元。如需收钱，请点此升级至最新版本"
+    },
+    {
+        "msgId": "242619",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-05-20 11:30:46",
+        "type": "47",
+        "content": "2022/05/20/emoji/e4082069152a486483463d27740e6da4.gif"
+    }
+]

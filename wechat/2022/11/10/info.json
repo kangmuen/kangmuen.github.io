@@ -1,0 +1,18 @@
+[
+    {
+        "msgId": "339855",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-10 08:10:37",
+        "type": "3",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<img aeskey=\"d36b6a4274bacb921eb206f4c0640fb4\" encryver=\"1\" cdnthumbaeskey=\"d36b6a4274bacb921eb206f4c0640fb4\" cdnthumburl=\"3057020100044b30490201000204f4581ce702032f4ef2020420bbce6f0204636c4173042431383435643462632d353239352d343265342d396135382d3431336366646435353365610204011400020201000405004c537600\" cdnthumblength=\"3151\" cdnthumbheight=\"150\" cdnthumbwidth=\"103\" cdnmidheight=\"0\" cdnmidwidth=\"0\" cdnhdheight=\"0\" cdnhdwidth=\"0\" cdnmidimgurl=\"3057020100044b30490201000204f4581ce702032f4ef2020420bbce6f0204636c4173042431383435643462632d353239352d343265342d396135382d3431336366646435353365610204011400020201000405004c537600\" length=\"89732\" md5=\"8843e1ec1e64376c351b7ee164b28ea4\" />\n\t<platform_signature></platform_signature>\n\t<imgdatahash></imgdatahash>\n</msg>\n"
+    },
+    {
+        "msgId": "339865",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-10 08:11:39",
+        "type": "3",
+        "content": ""
+    }
+]

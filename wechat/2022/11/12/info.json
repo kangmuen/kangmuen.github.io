@@ -1,0 +1,10 @@
+[
+    {
+        "msgId": "341759",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-12 09:43:52",
+        "type": "3",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<img aeskey=\"ba51eaad1c8006878181db03e656ef27\" encryver=\"0\" cdnthumbaeskey=\"ba51eaad1c8006878181db03e656ef27\" cdnthumburl=\"3057020100044b304902010002047fb8ee8002032f4f57020475a6206f0204636efa57042464376638653837362d346338362d343332312d383462362d396339646434656433353434020401150a020201000405004c4c6f00\" cdnthumblength=\"5053\" cdnthumbheight=\"144\" cdnthumbwidth=\"58\" cdnmidheight=\"0\" cdnmidwidth=\"0\" cdnhdheight=\"0\" cdnhdwidth=\"0\" cdnmidimgurl=\"3057020100044b304902010002047fb8ee8002032f4f57020475a6206f0204636efa57042464376638653837362d346338362d343332312d383462362d396339646434656433353434020401150a020201000405004c4c6f00\" length=\"1\" md5=\"d669ea51d2580782aabb8ed926c6c905\" hevc_mid_size=\"172712\" />\n\t<platform_signature></platform_signature>\n\t<imgdatahash></imgdatahash>\n</msg>\n"
+    }
+]

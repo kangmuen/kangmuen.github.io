@@ -1,0 +1,42 @@
+[
+    {
+        "msgId": "273609",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-07-16 18:01:35",
+        "type": "3",
+        "content": ""
+    },
+    {
+        "msgId": "273610",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-07-16 18:01:42",
+        "type": "1",
+        "content": "你喝那个？"
+    },
+    {
+        "msgId": "273614",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-07-16 18:02:15",
+        "type": "1",
+        "content": "都可以"
+    },
+    {
+        "msgId": "273615",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-07-16 18:02:22",
+        "type": "1",
+        "content": "你可以进来"
+    },
+    {
+        "msgId": "273618",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-07-16 18:10:00",
+        "type": "1",
+        "content": "要很久吗"
+    }
+]

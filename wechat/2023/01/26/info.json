@@ -1,0 +1,26 @@
+[
+    {
+        "msgId": "400909",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-26 10:16:29",
+        "type": "1",
+        "content": "吃饺子不？给你煮几个饺子？"
+    },
+    {
+        "msgId": "401104",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2023-01-26 15:47:44",
+        "type": "3",
+        "content": ""
+    },
+    {
+        "msgId": "401129",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2023-01-26 20:07:02",
+        "type": "50",
+        "content": "voip_content_voice"
+    }
+]

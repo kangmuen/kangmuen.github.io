@@ -1,0 +1,34 @@
+[
+    {
+        "msgId": "355612",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-27 11:50:03",
+        "type": "3",
+        "content": ""
+    },
+    {
+        "msgId": "355903",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-27 15:43:27",
+        "type": "1",
+        "content": "BC【2014】011\n本行声明:\n1.我行仅对本资信证明所载证明时点或证明期间内，前款所述证\n明事项与我行电子系统或档案文件记载内容相一致负责。对超出证明\n时点(期限)证明事项所发生的任何变化不承担任何责任。对因申请\n人提供的资料存在虚假记载、重大信息遗漏、误导性陈迷等情况所导致的不利影响及损失，我行不承拒任何责任、\n2.本证明书只用于前款特定用途，不得转让，不得作为担保、瓶资等其他事项的证明。\n3.本证明书只限于送往证明接受人，涂改、复印均无效。我行对\n被证明人。证明接受人因运用本资信证明产生的后果，不承担任何法\n律责任。。\n4.本证明有效期至 2020年02月 29 日止，对超出该期限使用本证明造成的不利影响及损失，我行不承担任何责任。\n5.本证明加盖我行支行级以上公章方能生效。以下空白。\n\n2"
+    },
+    {
+        "msgId": "355910",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-11-27 15:49:07",
+        "type": "1090519089",
+        "content": "发送文件:BJC.docx"
+    },
+    {
+        "msgId": "356107",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-11-27 20:57:57",
+        "type": "49",
+        "content": "<?xml version=\"1.0\"?>\n<msg>\n\t<appmsg appid=\"\" sdkver=\"\">\n\t\t<title><![CDATA[邀请你加入群聊]]></title>\n\t\t<des><![CDATA[\"阿恱\"邀请你加入群聊\"精准防控诉求群\"，进入可查看详情。]]></des>\n\t\t<action>view</action>\n\t\t<type>5</type>\n\t\t<showtype>0</showtype>\n\t\t<content />\n\t\t<url><![CDATA[https://support.weixin.qq.com/cgi-bin/mmsupport-bin/addchatroombyinvite?ticket=AVB6c%2FWG7%2Flzw0eSRotLyg%3D%3D]]></url>\n\t\t<thumburl><![CDATA[http://wx.qlogo.cn/mmcrhead/cHibOGdaN4dWUUR9kuOL8SEvf9ZZaXYZjDXIOtMztkNNYboibsNEqASxo9BSQibB6zI6OP3JHLSBgDYwkvK5v2HvMDEbJia9Qiae0/0]]></thumburl>\n\t\t<lowurl />\n\t\t<appattach>\n\t\t\t<totallen>0</totallen>\n\t\t\t<attachid />\n\t\t\t<fileext />\n\t\t</appattach>\n\t\t<extinfo />\n\t</appmsg>\n\t<appinfo>\n\t\t<version />\n\t\t<appname />\n\t</appinfo>\n</msg>\n"
+    }
+]

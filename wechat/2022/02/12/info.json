@@ -1,0 +1,34 @@
+[
+    {
+        "msgId": "194886",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-02-12 10:47:21",
+        "type": "469762097",
+        "content": "微信红包:拜年红包"
+    },
+    {
+        "msgId": "194887",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "1",
+        "createTime": "2022-02-12 10:47:38",
+        "type": "469762097",
+        "content": "微信红包:拜年红包"
+    },
+    {
+        "msgId": "194936",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-02-12 21:56:00",
+        "type": "10000",
+        "content": "  Light领取了你的红包"
+    },
+    {
+        "msgId": "194937",
+        "talker": "wxid_uhwbwelbda9r22",
+        "isSend": "0",
+        "createTime": "2022-02-12 21:56:05",
+        "type": "10000",
+        "content": "  Light领取了你的红包"
+    }
+]
